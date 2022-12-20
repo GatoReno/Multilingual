@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Uwmk8mFrxO+uO0sJA06sQBr+y3PVXSQcOPV9SetkmFUpFXrSs1LuR3EnoBGHa2dLaxyqJUKKAO5zmTQgglNrg==",
+  "success": true,
+  "projectFilePath": "/Users/eduardorodriguez/Projects/Multilingual/Multilingual/Multilingual.iOS/Multilingual.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/eduardorodriguez/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/eduardorodriguez/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/eduardorodriguez/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

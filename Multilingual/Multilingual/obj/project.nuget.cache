@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "66WhrimAy88lTH5W6S5Zlv2OKqxT0fCyAhriCwU//ylSXWVWJcgBcH+c3lUoVpwFxUBCGYm7OM3412mFOYm04w==",
+  "success": true,
+  "projectFilePath": "/Users/eduardorodriguez/Projects/Multilingual/Multilingual/Multilingual/Multilingual.csproj",
+  "expectedPackageFiles": [
+    "/Users/eduardorodriguez/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/eduardorodriguez/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/eduardorodriguez/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/eduardorodriguez/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/eduardorodriguez/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
